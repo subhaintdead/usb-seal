@@ -19,7 +19,7 @@ usb-seal is a usb hub project i made following the macondo usb hub guide. its my
 - now connect whatever devices you want to the usb hub!
 
 ## how to replicate? 
-- in `src/Production` you'll find the gerbers, CPL and BOM files. These are the files that allow you to get the PCB manufactured from JLCPCB or - any other manufacturer.
+- in `src/Production` you'll find the gerbers, CPL and BOM files. These are the files that allow you to get the PCB manufactured from JLCPCB or - any other manufacturer. (theres the oshwlab link too above in the readme)
 - sign up on jlcpcb, go to the place orders page and upload the gerbers file.
 - configure as you like and upload the BOM and CPL files.
 - add to cart and order the pcb!!
