@@ -7,7 +7,9 @@ this is a usb hub made using the SL2.1s chip.
 **connectors**:
 
 1x input usb-c port
+
 1x usb-c output
+
 3x usb-a output
 
 
