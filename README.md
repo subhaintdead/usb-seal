@@ -17,7 +17,9 @@ this is a usb hub made using the SL2.1s chip.
 
 
 
-the bill of material:
+## bill of materials
+
+also available in .xlsx format in [BOM.xlsx](https://github.com/subhaintdead/usb-seal/blob/main/BOM.xlsx)
 
 | No. | Quantity | Comment | Designator | Footprint | Value | Manufacturer Part | Manufacturer | Supplier Part | Supplier |
 |---|---|---|---|---|---|---|---|---|---|
@@ -29,4 +31,3 @@ the bill of material:
 | 6 | 2 | TYPE-C 16PIN 2MD(073) | USB1,USB_IN | USB-C-SMD_TYPE-C-16PIN-2MD-073 |  | TYPE-C 16PIN 2MD(073) | SHOU HAN | C2765186 | LCSC |
 | 7 | 3 | 10.0 QHHTZB6.3 | USB2,USB3,USB4 | USB-A-TH_10.0QHHTZB6.3 |  | 10.0 QHHTZB6.3 | SHOU HAN | C668591 | LCSC |
 
-you can also see the BOM here(/BOM.xlsx)
