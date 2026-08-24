@@ -1,16 +1,19 @@
 # usb-seal
 
-**what is it?**
 
-this is a usb hub made using the SL2.1s chip. 
+this is a usb hub made using the SL2.1s chip. <br>
+ **OSHW LAB link**:   https://oshwlab.com/subhisseal/project_uqmdgjyv
 
-**connectors**:
+<br>
 
+## about
+usb-seal is a usb hub project i made following the macondo usb hub guide. its my first time making pcb tho. it has these **connectors**: <br>
 
-1x input usb-c port <br>1x usb-c output <br>3x usb-a output
+1x input usb-c port <br>
+1x usb-c output <br>
+3x usb-a output
 
-
-
+## how to replicate? 
 
 
 
