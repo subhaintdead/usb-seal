@@ -2,7 +2,13 @@
 
 **what is it?**
 
-this is a usb hub
+this is a usb hub made using the SL2.1s chip. 
+
+**connectors**:
+
+1x input usb-c port
+1x usb-c output
+3x usb-a output
 
 
 
@@ -11,13 +17,7 @@ this is a usb hub
 
 
 
-
-
-
-
-
-
-
+the bill of material:
 
 | No. | Quantity | Comment | Designator | Footprint | Value | Manufacturer Part | Manufacturer | Supplier Part | Supplier |
 |---|---|---|---|---|---|---|---|---|---|
@@ -28,3 +28,5 @@ this is a usb hub
 | 5 | 1 | SL2.1s | U1 | SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL |  | SL2.1s | CoreChips | C2684433 | LCSC |
 | 6 | 2 | TYPE-C 16PIN 2MD(073) | USB1,USB_IN | USB-C-SMD_TYPE-C-16PIN-2MD-073 |  | TYPE-C 16PIN 2MD(073) | SHOU HAN | C2765186 | LCSC |
 | 7 | 3 | 10.0 QHHTZB6.3 | USB2,USB3,USB4 | USB-A-TH_10.0QHHTZB6.3 |  | 10.0 QHHTZB6.3 | SHOU HAN | C668591 | LCSC |
+
+you can also see the BOM here(/BOM.xlsx)
