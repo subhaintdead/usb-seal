@@ -13,8 +13,16 @@ usb-seal is a usb hub project i made following the macondo usb hub guide. its my
 1x usb-c output <br>
 3x usb-a output
 
-## how to replicate? 
+## how to use??
+- replicate the project(see the "how to replicate" section below)
+- once you have it assembled, plug in a usb-c to usb-c cable and the other end to whatever device yyoure connecting it to
+- now connect whatever devices you want to the usb hub!
 
+## how to replicate? 
+- in `src/EDA` youll fing the gerbers, CPL and BOM files. These are the files that allow you to get the PCB manufactured from JLCPCB or - any other manufacturer.
+- sign up on jlcpcb, go to the place orders page and upload the gerbers file.
+- configure as you like and upload the BOM and CPL files.
+- add to cart and order the pcb!!
 
 
 
